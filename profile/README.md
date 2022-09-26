@@ -36,7 +36,7 @@ OPERA利用者間の情報交換
 * 第三者の特許権、意匠権、著作権、商標権、肖像権などを侵害するもの
 * ある特定の個人、企業、団体の営利を目的としたもの
 * 記載された内容が虚偽又は著しく事実と異なるもの
-[GitHub利用規約](https://docs.github.com/ja/github/site-policy/github-terms-of-service)に反するもの
+* [GitHub利用規約](https://docs.github.com/ja/github/site-policy/github-terms-of-service)に反するもの
 * その他、運用上、不適当であると判断されるもの
 
 ### 建機等の3次元形状モデルについて
